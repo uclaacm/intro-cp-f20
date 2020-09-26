@@ -1,6 +1,13 @@
 # Intro to CP Session 4 -- Sorting
 
-[TOC]
+## Table of Contents
+ - [1. What](##1-what)  
+ - [2.How](##2-how)  
+ - [3. When](##3-when)  
+ - [4. Examples](##4-examples)  
+   + [Cetiri](###cetiri)  
+   + [Basic Programming 2](###basic-programming-2)  
+ - [5. Contest Problems](##5-contest-problems)  
 
 ## 1. What
 
