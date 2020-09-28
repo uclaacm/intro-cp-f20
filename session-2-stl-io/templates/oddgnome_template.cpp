@@ -1,23 +1,23 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Problem: Odd Gnome
+// Problem: oddgnome
 // https://open.kattis.com/problems/oddgnome
 
 int main () {
-    // total number of testcases
     int n; cin >> n;
-    // for each testcase
-    for (int t = 0; t < n; t++) {
-        // number of gnomes in this group
+    
+    for (int i = 0; i < n; i++) {
         int g; cin >> g;
-        vector<int> gnome_nums(g);
-        for (int i = 0; i < g; i++) {
-            cin >> gnome_nums[i];
-        }
 
+        vector<int> gnome_ids(g);
+        for (int j = 0; j < g; j++) {
+            cin >> gnome_ids[j];
+        }
+        
         int king_position;
-        // your code goes here
+
+
 
         cout << king_position << '\n';
     }
