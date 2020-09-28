@@ -1,4 +1,6 @@
-# STL and I/O
+# I/O and Math
 ## Your First Solve! From Scratch
 
-Try starting from a blank file this time! We still provide templates under the `templates/` folder, so you never have to be stuck for too long on I/O. 
+Try starting from a blank file this time! 
+
+If you're getting stuck on I/O, though, we still provide templates under the `templates/` folder. 
