@@ -12,7 +12,7 @@ int main() {
     cin >> R;
     cin >> ax >> ay >> bx >> by;
 
-    int minDis = INT_MAX;
+    double minDis = INT_MAX;
 
     /*
         Do something here.
