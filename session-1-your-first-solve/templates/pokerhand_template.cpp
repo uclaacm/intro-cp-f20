@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 
   // a string is an array of characters. "icpc" = {'i','c','p','c'}
-  string cards[5];
+  vector<string> cards(5);
 
   for (int i = 0; i < 5; i++) {
     cin >> cards[i];
