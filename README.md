@@ -10,7 +10,7 @@ From climbing coding leaderboards to competing in ICPC regionals to constructing
 ## Outline
 
 * Session 1: Your First Solve!
-* Session 2: STL and I/O, aka Your First Solve! From Scratch
+* Session 2: Math and I/O
 * Session 3: Arrays
 * Session 4: Sorting
 * Session 5: Binary Search
