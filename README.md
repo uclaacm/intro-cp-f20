@@ -12,7 +12,7 @@ From climbing coding leaderboards to competing in ICPC regionals to constructing
 * Session 1: Your First Solve!
 * Session 2: STL and I/O, aka Your First Solve! From Scratch
 * Session 3: Arrays
-* Session 4: Strings
+* Session 4: Sorting
 * Session 5: Binary Search
 * Session 6: Intro to Dynamic Programming
 
