@@ -20,7 +20,7 @@ int main(){
     cin >> x >> n;
     vector<int> p;
     int mbs;
-    while(n--){
+    for(int i =0; i < n; i++){
         cin >> mbs;
         p.push_back(mbs);
     }
@@ -28,7 +28,7 @@ int main(){
     int leftover = 0;
 
 
-    cout << leftover+x << endl;
+    cout << leftover << endl;
 
 
 }
