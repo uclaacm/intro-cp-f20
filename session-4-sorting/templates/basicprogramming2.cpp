@@ -11,6 +11,8 @@ int main() {
         cin >> A[i];
     }
 
+    // do something here
+    
     if (t == 1) {
         bool found = false;
 
