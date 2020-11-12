@@ -24,5 +24,6 @@ int main(){
     for(int i =0; i < gis.size(); i++){
         cout << gis[i] << " ";
     }
+    cout << '\n';
 
 }
