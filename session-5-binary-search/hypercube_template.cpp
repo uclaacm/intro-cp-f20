@@ -8,7 +8,7 @@ int main() {
   cin >> n;
   cin >> a >> b;
 
-  long long num_codes;
+  unsigned long long num_codes;
 
   // write your code here...
 
