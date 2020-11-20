@@ -8,13 +8,12 @@ From climbing coding leaderboards to competing in ICPC regionals to constructing
   - [Resources](#resources)
 
 ## Outline
-
-* Session 1: Your First Solve!
-* Session 2: Math and I/O
-* Session 3: Arrays
-* Session 4: Sorting
-* Session 5: Binary Search
-* Session 6: Intro to Dynamic Programming
+* Session 1: Your First Solve! https://tinyurl.com/intro-cp-slides-1
+* Session 2: Math and I/O https://tinyurl.com/intro-cp-slides-2
+* Session 3: Arrays https://tinyurl.com/intro-cp-3-slides
+* Session 4: Sorting https://tinyurl.com/intro-cp-s4-slides
+* Session 5: Binary Search https://tinyurl.com/intro-cp-5-slides
+* Session 6: Intro to Dynamic Programming https://tinyurl.com/intro-cp-6-slides
 
 ## Links 
 
