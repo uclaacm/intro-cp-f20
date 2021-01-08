@@ -7,13 +7,22 @@ From climbing coding leaderboards to competing in ICPC regionals to constructing
   - [Links](#links)
   - [Resources](#resources)
 
-## Outline
+## Slide Links
 * Session 1: Your First Solve! https://tinyurl.com/intro-cp-slides-1
 * Session 2: Math and I/O https://tinyurl.com/intro-cp-slides-2
 * Session 3: Arrays https://tinyurl.com/intro-cp-3-slides
 * Session 4: Sorting https://tinyurl.com/intro-cp-s4-slides
 * Session 5: Binary Search https://tinyurl.com/intro-cp-5-slides
 * Session 6: Intro to Dynamic Programming https://tinyurl.com/intro-cp-6-slides
+
+## Contest Links
+* Session 1: https://tinyurl.com/intro-cp-1-contest
+* Session 2: https://tinyurl.com/intro-cp-contest-2
+* Session 3: https://tinyurl.com/intro-cp-3-contest
+* Session 4: https://open.kattis.com/contests/otswcb
+* Session 5: https://tinyurl.com/intro-cp-5-contest
+* Session 6: https://tinyurl.com/intro-cp-6-contest
+* Mini Contest: https://tinyurl.com/intro-cp-mini-contest
 
 ## Links 
 
